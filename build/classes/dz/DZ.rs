@@ -1,2 +1,0 @@
-dz.Sum
-dz.DZ
